@@ -1,16 +1,24 @@
-# quiz_app
 
-A new Flutter project.
+# Personality Quiz App
 
-## Getting Started
+This Personality Quiz App is a very basic Mobile-Application built
+on Flutter Framework with a few basic questions to judge your
+personality and provide you a score based on that.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**Language Used:** Dart
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Framework Used:** Flutter
+
+  
+## Screenshots
+  
+## Acknowledgements
+
+ This App is created as a Course Project during my Flutter Udemy
+ Certification.
+ 
+ [Flutter & Dart - The Complete Guide](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
+  
