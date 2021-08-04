@@ -14,6 +14,18 @@ personality and provide you a score based on that.
 
   
 ## Screenshots
+
+- Questions
+
+![Ques1](https://github.com/namsac16/Personality-Quiz-App/blob/main/screenshots/ques1.PNG)
+
+![Ques2](https://github.com/namsac16/Personality-Quiz-App/blob/main/screenshots/ques2.PNG)
+
+![Ques3](https://github.com/namsac16/Personality-Quiz-App/blob/main/screenshots/ques3.PNG)
+
+- Score
+
+![Score](https://github.com/namsac16/Personality-Quiz-App/blob/main/screenshots/score.PNG)
   
 ## Acknowledgements
 
